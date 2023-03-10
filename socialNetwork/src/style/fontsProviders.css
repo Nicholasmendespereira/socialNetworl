@@ -1,0 +1,53 @@
+@font-face {
+    font-family:'Balsamiq Sans';
+    src: url("../assets/BalsamiqSans-Bold.ttf") format("truetype"),
+}
+@font-face {
+    font-family: 'Rubik Bold';
+    src: url("../assets/_TI/Rubik/Rubik-Bold.ttf")  format('opentype');
+}
+@font-face {
+    font-family: 'Rubik SemiBold';
+    src: url("../assets/_TI/Rubik/Rubik-SemiBold.ttf")  format('opentype');
+}
+@font-face {
+    font-family: 'Rubik Medium';
+    src: url("../assets/_TI/Rubik/Rubik-Medium.ttf")  format('opentype');
+}
+@font-face {
+    font-family: 'Rubik Regular';
+    src: url("../assets/_TI/Rubik/Rubik-Regular.ttf")  format('opentype');
+}
+@font-face {
+    font-family: 'Gravitica Light';
+    src: url("../assets/ckhans-fonts-gravitica-light-demo.otf")  format('opentype');
+}
+@font-face {
+    font-family: 'Nexa Bold';
+    src: url("../assets/nexa-bold.otf")  format('opentype');
+}
+
+@font-face {
+    font-family: 'Nexa Regular';
+    src: url("../assets/nexa-regular.otf")  format('opentype');
+}
+
+@font-face {
+    font-family: 'Hero Light';
+    src: url("../assets/Hero-Light.otf")  format('opentype');
+}
+
+@font-face {
+    font-family: 'Hero Bold';
+    src: url("../assets/Hero-Bold.otf")  format('opentype');
+}
+
+@font-face {
+    font-family: 'Cyntho Next Bold';
+    src: url("../assets/cynthonextbold.otf")  format('opentype');
+}
+
+@font-face {
+    font-family: 'Cyntho Next Light';
+    src: url("../assets/cynthonextlight.otf")  format('opentype');
+}
