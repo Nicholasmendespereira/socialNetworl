@@ -1,0 +1,8 @@
+.App{
+    width: 100vw;
+}
+.container-app {
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+}
