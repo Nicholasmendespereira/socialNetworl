@@ -15,5 +15,8 @@ export const BoxTwo = styled.div`
 background-color: blue;
 `;
 export const BoxThree = styled.div`
+display: flex;
+align-items: center;
 background-color: red ;
+font-size: 1.3rem;
 `;
