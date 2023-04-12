@@ -1,3 +1,4 @@
+import Login from './components/Login/index'
 import NewPost from "./components/NewPost/index";
 import LeftPortal from "./components/leftPortal/index";
 import Post from "./components/Post/index";
@@ -6,6 +7,7 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
+      <Login/>
       <NewPost />
       <div className="container-app">
         <LeftPortal style={{ width: "20%" }} />
